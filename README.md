@@ -1,0 +1,2 @@
+# python
+tüm çalışmalarım
